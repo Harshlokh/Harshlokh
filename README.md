@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Harshlokh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Harshlokhande
+- 👀 I’m interested in MERN ,ANDROID DEVELOPMENT and  cool webpages
+- 🌱 I’m currently learning MERN STACK<ANDROID DEVELOPMENT
+- 💞️ I’m looking to collaborate on WEBDEVELOPMENT
+- 📫 How to reach me LINKEDIN
+  
+- ⚡ Fun fact: I JUST LOVE CHALLENGES THAT ARE BEYOUND MY LIMIT
 
-<!---
-Harshlokh/Harshlokh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
